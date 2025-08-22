@@ -99,4 +99,7 @@ const result = await new Promise((resolve, reject) => {
 
 console.log(result);
 
+// テスト
+//テスト０２
+
 
