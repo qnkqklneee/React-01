@@ -1,0 +1,19 @@
+.component {
+  padding: 1rem;
+  color: blue;
+  border: 5px solid blue;
+
+}
+
+.title {
+  padding: auto;
+  color: blueviolet;
+  border: 8px solid black;
+}
+
+.basecolor {
+  background-color: burlywood;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
